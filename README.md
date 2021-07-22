@@ -27,3 +27,4 @@ Execute:
 For more information type 'help' or 'h' in the program. 
   
  !!!CHECK THAT THERE ARE ONLY SERVERS YOU CAN USE WITH YOUR PROTON PLAN!!!
+- The File 'servers.txt' contains only the servers for the FREE plan
