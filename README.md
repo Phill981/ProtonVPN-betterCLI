@@ -1,7 +1,7 @@
 # ProtonVPN-betterCLI
 A ProtonVPN-CLI handler that makes the usage more convinient
 
-This programm only works for linux and macos and requires an accoutn at ProtonVPN
+This programm only works for Linux and macOS and requires an accoutn at ProtonVPN
 
 https://account.protonvpn.com/login
 
