@@ -7,7 +7,7 @@ https://account.protonvpn.com/login
 
 
 
-##Install ProtonVPN-cli
+## Install ProtonVPN-cli
 
 wget https://protonvpn.com/download/protonvpn-stable-release_1.0.1-1_all.deb
 
@@ -19,7 +19,7 @@ sudo apt-get install protonvpn-cli
 
 
 
-##Use this programm
+## Use this programm
 Execute:
   python3 proton.py 'Your ProtonVPN username' 'A list of servers'
   
