@@ -21,7 +21,9 @@ sudo apt-get install protonvpn-cli
 
 ## Use this programm
 Execute:
+
   python3 proton.py 'Your ProtonVPN username' 'A list of servers'
+  
   
 For more information type 'help' or 'h' in the program. 
   
