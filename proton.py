@@ -106,7 +106,7 @@ class Program():
 			sleep(self.changeTime)
 			os.system("protonvpn-cli d")
 
-	def readServers(self):
+	def readServers(self)->None:
 		with open(self.servers) as file:
 			self.serverList = [line.strip() for line in file.readlines()]
 
