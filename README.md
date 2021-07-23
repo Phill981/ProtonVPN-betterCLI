@@ -7,6 +7,7 @@ https://account.protonvpn.com/login
 
 
 
+
 ## Install ProtonVPN-cli
 
 [1] wget https://protonvpn.com/download/protonvpn-stable-release_1.0.1-1_all.deb
@@ -16,6 +17,7 @@ https://account.protonvpn.com/login
 [3] sudo apt-get update
 
 [4] sudo apt-get install protonvpn-cli
+
 
 
 
